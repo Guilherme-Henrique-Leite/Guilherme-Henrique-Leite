@@ -29,7 +29,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique&show_icons=true&count_private=true)
 
 ## Vamos Conectar?
 
