@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 Você pode me encontrar na seguinte rede profissional:
 
-- [LinkedIn]((https://www.linkedin.com/in/guilhermehlalbuquerque/))
+- [LinkedIn](https://www.linkedin.com/in/guilhermehlalbuquerque/)
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
