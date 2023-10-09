@@ -12,8 +12,7 @@
   <div style="display: inline_block"><br>
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="PL/SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plsql/plsql-original.svg">
+  <img align="center" alt="java" height="30" width="40" <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
 
     
 </div>
