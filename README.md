@@ -11,7 +11,7 @@
 
 ### 💼 Experiência
 
-- Desenvolvedor de Software na MV(https://mv.com.br/)
+- Desenvolvedor de Software na MV (https://mv.com.br/)
 - Estudante de Engenharia da Computação 
 
 ### 🚀 Habilidades
