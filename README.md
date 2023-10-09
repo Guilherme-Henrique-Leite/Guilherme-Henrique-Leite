@@ -30,7 +30,7 @@ Sempre em busca de aprender coisas novas. Atualmente, estou focado em:
 
 ### 📫 Entre em Contato
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/guilhermehlalbuquerque/) ou me enviar um email em [guilherme.hlalbuquerque@gmail.com].
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/guilhermehlalbuquerque/) ou me enviar um email em guilherme.hlalbuquerque@gmail.com.
 
 ### 🎯 Objetivo
 
