@@ -20,7 +20,7 @@
 - Frameworks: .NET, Django, Springboot
 - Bancos de Dados: PL/SQL
 - Outras: Git, Jira
-
+ 
 ### 📚 Aprendizado Contínuo
 
 Sempre em busca de aprender coisas novas. Atualmente, estou focado em:
