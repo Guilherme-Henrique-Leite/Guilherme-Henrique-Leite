@@ -1,41 +1,30 @@
+<h1> Olá, meu nome é Guilherme! </h1>
 
-# Olá, sou Guilherme Henrique! 👾
+<div>
+  <a href="https://github.com/Guilherme-Henrique-Leite">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique-Leite&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henrique-Leite&layout=compact&langs_count=7&theme=react" />
 
-## Sobre mim
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+ <br>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/Guilherme-Henrique-Leite/Guilherme-Henrique-Leite
+/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/Guilherme-Henrique-Leite/Guilherme-Henrique-Leite
+/master/icons/php/php-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/Guilherme-Henrique-Leite/Guilherme-Henrique-Leite
+/master/icons/java/java-original.svg">
+ <img align="center" alt="plsql" height="30" width="40" src="https://raw.githubusercontent.com/Guilherme-Henrique-Leite/Guilherme-Henrique-Leite
+/master/icons/plsql/plsql-original.svg">
 
-Sou um entusiasta da tecnologia e apaixonado por desenvolver soluções criativas e eficazes. Atualmente, trabalho como desenvolvedor de software na MV em Recife,PE. Estou sempre em busca de aprender e aprimorar minhas habilidades em desenvolvimento e em outras áreas que me interessam.
-
-- 💼 Atualmente, sou Desenvolvedor de software jr na MV.
-- 💻 Estou constantemente aprendendo e me aperfeiçoando nas tecnologias em que trabalho e que tenho interesse.
-
-## Habilidades e Tecnologias
-
-Aqui estão algumas das habilidades e tecnologias com as quais tenho experiência:
-
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
-- ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=fff)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-- ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
-
-## Projetos em Destaque
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- Teste-Anagramas-SpringBoot (https://github.com/Guilherme-Henrique-Leite/Teste-Anagramas-SpringBoot) - Projeto feito com identificar palavras que são anagramas e palavras que não são anagramas.
-- Estacionamento-NET ((https://github.com/Guilherme-Henrique-Leite/Estacionamento-NET) - Projeto realizado em .NET para simular um sistema de estacionamento.
-
-## GitHub Stats
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guilherme&show_icons=true&count_private=true)
-
-## Vamos Conectar?
-
-Você pode me encontrar na seguinte rede profissional:
-
-- [LinkedIn](https://www.linkedin.com/in/guilhermehlalbuquerque/)
-
-Sinta-se à vontade para explorar meus projetos e entrar em contato!
-
+    
+</div>
+  <a href="(https://www.linkedin.com/in/guilhermehlalbuquerque/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Guilherme-Henrique-Leite/Guilherme-Henrique-Leite/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-Henrique-Leite&repo=Guilherme-Henrique-Leite&theme=react)]
