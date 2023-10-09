@@ -1,17 +1,41 @@
-# Bem-vindo ao meu perfil do GitHub!
+<h1 align="center">Olá, eu sou [Guilherme]! 👾</h1>
 
-Olá, meu nome é Guilherme! 👾
+<p align="center">
+  Sou um apaixonado por tecnologia e programação, sempre buscando aprender e criar coisas novas.
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique-Leite&show_icons=true&theme=react&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henrique-Leite&layout=compact&langs_count=7&theme=react)
+<p align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilhermehlalbuquerque/">LinkedIn</a> •
+  <a href="mailto:guilherme.hlalbuquerque@gmail.com">Email</a>
+</p>
 
-![Snake Animation](https://github.com/Guilherme-Henrique-Leite/Guilherme-Henrique-Leite/blob/output/github-contribution-grid-snake.svg)
+### 💼 Experiência
 
-## Sobre Mim
+- Desenvolvedor de Software na MV(https://mv.com.br/)
+- Estudante de Engenharia da Computação 
 
-Sou um entusiasta da programação com experiência em Python, Django, .NET, Java e PL/SQL. Estou sempre aprendendo e buscando novos desafios.
+### 🚀 Habilidades
 
-## Redes Sociais
+- Linguagens: C#, Python, Java
+- Frameworks: .NET, Django, Springboot
+- Bancos de Dados: PL/SQL
+- Outras: Git, Jira
 
-- [LinkedIn](https://www.linkedin.com/in/guilhermehlalbuquerque/)
+### 📚 Aprendizado Contínuo
 
+Sempre em busca de aprender coisas novas. Atualmente, estou focado em:
+
+- Aprendizado em Springboot 
+- Aprofundando meu conhecimento em Django
+
+### 📫 Entre em Contato
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/guilhermehlalbuquerque/) ou me enviar um email em [guilherme.hlalbuquerque@gmail.com].
+
+### 🎯 Objetivo
+
+Contribuir para projetos interessantes e continuar aprendendo e crescendo como desenvolvedor.
+
+### 🌟 Obrigado por visitar o meu perfil!
+
+Espero que você encontre algo interessante aqui. Não hesite em entrar em contato!
