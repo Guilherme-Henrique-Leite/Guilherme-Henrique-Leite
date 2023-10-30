@@ -1,41 +1,52 @@
-<h1 align="center">Olá, eu sou Guilherme! 👾</h1>
- 
-<p align="center">
-  Sou um apaixonado por tecnologia e programação, sempre buscando aprender e criar coisas novas.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Henrique;I'm+18+years+old;I'm+from+Pernambuco,Brazil;I+Study+systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme&layout=compact&hide_border=true&title_color=00ff00&text_color=006400&bg_color=0d1117" />
+</div>
+
+ There's some of technologies that i'm studying:
+
+<p justify-content="center">
+  
+ [![My Skills](https://skillicons.dev/icons?i=python,django,java,c#,git)](https://skillicons.dev)
+
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilhermehlalbuquerque/">LinkedIn</a> •
-  <a href="mailto:guilherme.hlalbuquerque@gmail.com">Email</a>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme&bg_color=000000&color=4c9e4e&line=659e4c&point=0aff3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 💼 Experiência
+<div align="center">
+  
+![GIF Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ2ZjM5dTNyejZkeDAwem4ybWs2OWk5bmF2aGxnaHIwdXp0cG5pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35ONGL2lEG8bL55iq8/giphy.gif)
 
-- Desenvolvedor de Software na MV (https://mv.com.br/)
-- Estudante de Engenharia da Computação 
+</div>
+  
 
-### 🚀 Habilidades
 
-- Linguagens: C#, Python, Java
-- Frameworks: .NET, Django, Springboot
-- Bancos de Dados: PL/SQL
-- Outras: Git, Jira
- 
-### 📚 Aprendizado Contínuo
 
-Sempre em busca de aprender coisas novas. Atualmente, estou focado em:
 
-- Aprendizado em Springboot 
-- Aprofundando meu conhecimento em Django
 
-### 📫 Entre em Contato
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/guilhermehlalbuquerque/) ou me enviar um email em guilherme.hlalbuquerque@gmail.com.
 
-### 🎯 Objetivo
+<!--
 
-Contribuir para projetos interessantes e continuar aprendendo e crescendo como desenvolvedor.
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░██████████░░░░░░░░░░░░
+░░░░░░░░░░░░░░██░░░░░░░░░░░░░░░░
+░░░░░░░░██░░░░██░░░░██░░░░░░░░░░
+░░░░░░██████░░██░░██████░░░░░░░░
+░░██░░░░██░░░░██░░░░██░░░░██░░░░
+░░██░░░░░░░░░░██░░░░░░░░░░██░░░░
+░░██████████████████████████░░░░
+░░██░░░░░░░░░░██░░░░░░░░░░██░░░░
+░░██░░░░██░░░░██░░░░██░░░░██░░░░
+░░░░░░██████░░██░░██████░░░░░░░░
+░░░░░░░░██░░░░██░░░░██░░░░░░░░░░
+░░░░░░░░░░░░░░██░░░░░░░░░░░░░░░░
+░░░░░░░░░░██████████░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-### 🌟 Obrigado por visitar o meu perfil!
-
-Espero que você encontre algo interessante aqui. Não hesite em entrar em contato!
+--->
