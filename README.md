@@ -22,7 +22,7 @@
 
 
 <div align="center">
- <img align="center" alt="Gif" width="500" src="https://media.tenor.com/thNxDWlG1EcAAAAd/killua-zoldyck-anime.gif">
+ <img align="center" alt="Gif" width="600" src="https://media.tenor.com/thNxDWlG1EcAAAAd/killua-zoldyck-anime.gif">
 </div>
 
 
