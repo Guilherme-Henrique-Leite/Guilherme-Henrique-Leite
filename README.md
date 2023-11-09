@@ -3,17 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Henrique;I'm+20+years+old;I'm+from+Pernambuco,Brazil;I+Study+Computer+Engineering+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div> 
-
- 
-  <img style="width:70rem;height:22rem;margin: auto" alt='olá' src="https://thumbs.gfycat.com/DimSoupyIrishsetter-max-1mb.gif"/> 
-  
-  
- 
- 
-</div>
-
-
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique-Leite&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henrique-Leite&layout=compact&hide_border=true&title_color=00ff00&text_color=006400&bg_color=0d1117" />
