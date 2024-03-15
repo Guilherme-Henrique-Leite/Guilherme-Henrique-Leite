@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,git,aws,mysql,docker,bootstrap,vuejs"/>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,vuejs,git,aws,mysql,docker,bootstrap"/>
   </a>
 </p>
 
