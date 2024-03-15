@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
- There's some of technologies that i'm studying:
+ There's some of technologies that i'm using:
 </p>
 
 <p align="center">
