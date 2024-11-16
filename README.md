@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,git,aws,mysql,docker,r"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,git,aws,mysql,postgresql,linux,docker"/>
   </a>
 </p>
 
