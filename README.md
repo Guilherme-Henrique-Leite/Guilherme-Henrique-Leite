@@ -17,6 +17,3 @@
     <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,git,aws,mysql,postgresql,kali,ubuntu,docker"/>
   </a>
 </p>
-
-[[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-Henrique-Leite&bg_color=000000&color=4c9e4e&line=659e4c&point=0aff3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-](url)
