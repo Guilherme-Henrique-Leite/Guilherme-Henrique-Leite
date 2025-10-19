@@ -3,7 +3,6 @@
 <h1 align="center">Guilherme Albuquerque</h1>
 <h3 align="center">AI Engineer | Python | AWS | FastAPI</h3>
 
----
 
 > building. building. building.
 
