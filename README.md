@@ -1,40 +1,38 @@
-<h1 align="center">👋 Hey, I'm Guilherme Albuquerque</h1>
+<img align="right" alt="Cyberpunk dev gif" width="400" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" />
 
-<p align="center">
-  <b>AI Engineer | Python | AWS | FastAPI | Building intelligent systems</b>
-</p>
+<h1 align="center">⚡ Guilherme Albuquerque</h1>
+<h3 align="center">AI Engineer | Python | AWS | FastAPI </h3>
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique-Leite&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henrique-Leite&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=0d1117" />
-</div>
+> building. building. building.
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,vue,ts,aws,postgresql,docker,redis,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,vue,ts,aws,postgresql,redis,docker,linux&perline=6" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 📊 GitHub Stats
 
-- 🧩 AI Engineer @ **TELUS Digital**  
-- ⚡ Passionate about building **scalable AI systems** and **data-driven apps**  
-- 💡 Currently developing **DecidaAI**, a financial intelligence platform  
-- 🌍 From **Recife, Brazil**
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique-Leite&show_icons=true&count_private=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henrique-Leite&layout=compact&hide_border=true&title_color=00ff99&text_color=00ff99&bg_color=0d1117" />
+</div>
 
 ---
 
+### 🌐 Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilhermealbuquerque7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/guilhermehlalbuquerque/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:guilhermehenriquedev@outlook.com">
-    <img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <a href="https://github.com/Guilherme-Henrique-Leite" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
