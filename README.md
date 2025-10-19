@@ -1,6 +1,6 @@
 <img align="right" alt="Cyberpunk dev gif" width="400" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" />
 
-<h1 align="center">⚡ Guilherme Albuquerque</h1>
+<h1 align="center">Guilherme Albuquerque</h1>
 <h3 align="center">AI Engineer | Python | AWS | FastAPI </h3>
 
 ---
