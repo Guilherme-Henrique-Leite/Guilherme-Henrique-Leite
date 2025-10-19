@@ -20,7 +20,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">  
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique-Leite&show_icons=true&count_private=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme GitHub stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique-Leite&show_icons=true&count_private=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henrique-Leite&layout=compact&hide_border=true&title_color=00ff99&text_color=00ff99&bg_color=0d1117" />
 </div>
 
