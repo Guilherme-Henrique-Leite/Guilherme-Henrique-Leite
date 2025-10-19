@@ -21,7 +21,7 @@
 
 <div align="center">  
   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henrique-Leite&show_icons=true&count_private=true&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme GitHub stats" /> 
-  <img width="46%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Guilherme-Henrique-Leite&theme=matrix&no-frame=true&no-bg=true&margin-w=15&title=Commit,Stars,Repositories" />
+  <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Guilherme-Henrique-Leite&theme=matrix&no-frame=true&no-bg=true&margin-w=15&title=Commit,Stars,Repositories" />
 </div>
 
 
