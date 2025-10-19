@@ -12,7 +12,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,vue,ts,aws,postgresql,redis,docker,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,vue,ts,aws,postgresql,redis,docker,linux,terraform&perline=6" />
 </p>
 
 ---
