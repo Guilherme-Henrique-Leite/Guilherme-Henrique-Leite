@@ -1,15 +1,20 @@
-<div align="center">
+<table>
+  <tr>
+    <td>
 
-  <img alt="dev gif" width="400" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" />
+<h1>⚡ Guilherme Albuquerque</h1>
+<h3>AI Engineer | Python | AWS | FastAPI</h3>
 
-  <h1>⚡ Guilherme Albuquerque</h1>
-  <h3>AI Engineer | Python | AWS | FastAPI</h3>
+<br/>
 
-  <br/>
+> building. building. building.
 
-  <i>building. building. building.</i>
-
-</div>
+</td>
+    <td>
+      <img align="right" alt="dev gif" width="380" src="https://i.pinimg.com/originals/18/ee/0d/18ee0d711fc1b266e65f6a389966d65c.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
